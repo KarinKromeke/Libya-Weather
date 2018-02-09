@@ -1,0 +1,34 @@
+body,html{
+    background-image:url(Imagenes/233740-P2CEY2-880.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0x;  
+}
+.container{
+    font-family:serif;
+    color: white;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.titulo{
+    margin: 70px;
+}
+select{
+    opacity: 0.6;
+    background-color:white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 30px;
+    width: 250px;
+    color: black;
+}
+#firstpop{
+    opacity: 0.8;
+    color:white;
+    text-align: center;
+}
